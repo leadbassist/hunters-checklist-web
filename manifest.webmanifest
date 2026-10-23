@@ -1,0 +1,19 @@
+{
+  "name": "Checklist for Bloodborne",
+  "short_name": "Bloodborne List",
+  "description": "A free, offline companion for hunters.",
+  "start_url": "/hunters-checklist-web/",
+  "scope": "/hunters-checklist-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0406",
+  "theme_color": "#0a0406",
+  "icons": [
+    {
+      "src": "/hunters-checklist-web/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
